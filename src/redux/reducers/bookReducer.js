@@ -6,7 +6,7 @@ import {
     FETCH_MY_BOOKS,
     UPDATE_BOOK_STATUS,
     UPDATE_BOOK_RATING,
-  } from "./bookActions";
+  } from "../actions/booksAction";
   
   const initialState = {
     books: [],

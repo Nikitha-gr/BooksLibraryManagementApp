@@ -3,7 +3,7 @@ import { getAuth } from "firebase/auth";
 
 console.log("firebase is connected");
 console.log(
-	import.meta.env.VITE_FIREBASE_NAME,
+	import.meta.env.VITE_FIREBASE_BOOK_LIBRARY_MANAGEMENT,
 	import.meta.env.VITE_FIREBASE_API_KEY,
 );
 const firebaseConfig = {
